@@ -1,4 +1,4 @@
-- name:First Demo Pull
+- name: First Demo Pull
   hosts: localhost
   tasks:
     - name: print hello world
